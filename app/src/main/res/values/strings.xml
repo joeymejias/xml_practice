@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Congratulations!</string>
+
+    <string name="to">You are an Android Developer!</string>
+    <string name="from">Woot!</string>
+    <string name="action_settings">Settings</string>
+</resources>
